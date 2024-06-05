@@ -1,6 +1,6 @@
 # Playground
 
-Image Strength
+Control Traits
 
 Used following base image
 ![image](https://github.com/Laghavi/Playground/assets/70020322/c1ab073a-1b76-4eeb-94cd-cfcee4478722)
